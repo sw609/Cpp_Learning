@@ -1,5 +1,8 @@
 # Cpp_Learning
-Learn C++ from YouTuber thenewboston, and the code along C++ files
+
+Learn C++ from YouTuber thenewboston. 
+
+Here are my code along C++ practices with the lectures.
 
 thenewboston: https://www.youtube.com/user/thenewboston
 
