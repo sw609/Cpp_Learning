@@ -32,8 +32,8 @@ int main(){
     Monster m;
     Enemy *enemy1 = &n;
     Enemy *enemy2 = &m;
-    enemy1->setAttackPower(29);
-    enemy2->setAttackPower(99);
+    n.setAttackPower(29);
+    m.setAttackPower(99);
     n.attack(); //can't use enemy1 because its type enemy
     m.attack(); //Enemy class does not have attack
     return 0; //virtual members make this even easier
